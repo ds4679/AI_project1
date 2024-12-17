@@ -1,1 +1,2 @@
-# AI_project2
+# image-recognition
+Number plate Recoginition by using the python 
